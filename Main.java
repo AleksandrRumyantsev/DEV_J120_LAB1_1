@@ -32,6 +32,7 @@ public class Main {
         while (iterator.hasNext()){
             System.out.println(iterator.next().toString());
         }
+        
         System.out.println();
 
         //Пример с ассоциативными массивами:
